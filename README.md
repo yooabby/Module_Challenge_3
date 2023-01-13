@@ -44,7 +44,8 @@ Acceptance Criteria
 
 ## Finished Challenge
 
-
+- The URL of the deployed application:[https://yooabby.github.io/Module_Challenge_3/](https://yooabby.github.io/Module_Challenge_3/)
+- The URL of the GitHub repository:[https://github.com/yooabby/Module_Challenge_3](https://github.com/yooabby/Module_Challenge_3)
 
 ---
 
